@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 50px;
+    min-width: 500px;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+ul {
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+ 
+img {
+    max-width: 100%;
+    height: auto;
+    border: none;
+  }
+

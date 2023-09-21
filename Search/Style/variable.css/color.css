@@ -1,0 +1,19 @@
+:root {
+    --color-head: #222;
+    --brd-clr-header:#080808;
+    --header-link: #9d9d9d;
+    --form-bg:#fff;
+    --small-color:#777777;
+    --color-section: #9acd32;
+    --section-text: #adff2f;
+    --par-color:#959595;
+    --bg-color-lst: #daa520; 
+     --white: #fff;
+     --blk: #000;
+     --btn-bg: #337ab7;
+    --btn-border:#2e6da4;
+    --btn-bg-hov: #286090;
+    --btn-bord-hov: #204d74;
+    --btn-bg-foc:#286090;
+    --btn-bord-foc:#122b40;
+}
